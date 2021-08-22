@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sandaru-J
 - 👀 I’m interested in Backend engineering..
 - 🌱 I’m currently learning c#,Java and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....
+- 💞️ I’m looking to collaborate on Open source projects
+- 📫 How to reach me sandarumanga2000@gmail.com
 
 <!---
 Sandaru-J/Sandaru-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
