@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sandaru Jayathilaka</h1>
-<h3 align="center">A passionate Backend Engineer Interested in System Developments</h3>
+<h3 align="center">A passionate Backend Engineer Interested in System Developments & Machine Learning</h3>
 <p align="center"><img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=790b76111997fcf31b5c755bf1ade48bca05cc7a0907148c&rid=giphy.gif&ct=g"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaru-j&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru-j" /> </p>
