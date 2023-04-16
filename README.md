@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently curious on **AI**
 
-- 🌱 I’m currently learning **Matlab Tensors and Neural Nettworks**
+- 🌱 I’m currently learning **Neural Nettworks , Natural Selctions and Simulations**
 
 - 🌱 Looking foward to contribute in more **Desktop Application Development**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **ML Projects** 
 
 - 💬 Ask me about **Cricket,Java and Food**
 
