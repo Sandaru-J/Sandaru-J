@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandaru Jayathilaka</h1>
 <h3 align="center">A passionate Backend Engineer Interested in System Developments & Machine Learning</h3>
-<p align="center"><img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=790b76111997fcf31b5c755bf1ade48bca05cc7a0907148c&rid=giphy.gif&ct=g"/></p>
+<!-- <p align="center"><img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif?cid=790b76111997fcf31b5c755bf1ade48bca05cc7a0907148c&rid=giphy.gif&ct=g"/></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaru-j&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru-j" /> </p>
 
@@ -37,8 +37,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandaru-j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandaru-j&show_icons=true&locale=en&theme=dark" alt="sandaru-j" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandaru-j&show_icons=true&locale=en&theme=dark" alt="sandaru-j" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandaru-j&theme=dark" alt="sandaru-j" /></p>
 
-<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tzcjeudun72p590ahzs11y3vmayu44wf7hlecrbd&rid=giphy.gif&ct=g"/>
+<!--<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tzcjeudun72p590ahzs11y3vmayu44wf7hlecrbd&rid=giphy.gif&ct=g"/>
