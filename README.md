@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sandaruj19" target="blank"><img src="https://img.shields.io/twitter/follow/sandaruj19?logo=twitter&style=for-the-badge" alt="sandaruj19" /></a> </p>
 
-- 🔭 I’m currently curious on **AI**
+- 🔭 I’m currently curious on **Reinforcement Learning**
 
-- 🌱 I’m currently learning **Neural Nettworks , Natural Selctions and LLM**
+- 🌱 I’m currently learning **CNN, RNN , Natural Selctions and LLM**
 
 - 🌱 Looking foward to contribute in more **AI & ML Projects**
 
